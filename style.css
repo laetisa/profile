@@ -1,0 +1,118 @@
+h1 {
+  color: #fe766b;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 auto;
+}
+h2 {
+  color: #7d7d7d;
+}
+
+h3 {
+  color: #7d7d7d;
+}
+
+body {
+  background-color:
+background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #7d7d7d;
+  }
+
+a {
+color: #db2530;
+}
+
+a:hover{
+  color: #e18f35;
+}
+.tout {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.profil {
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px;
+}
+
+.lien {
+  color: #fe766b;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px;
+  background: white;
+}
+
+.movie {
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px;
+}
+
+.about {
+  color: #fe766b;
+  width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.shadowed {
+  box-shadow: 5px 5px 3px #bfa142;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+
+
+
+
+
+
+@media (max-width: 960px) {
+  .tout {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .tout {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .tout {
+    width: 300px;
+  }
+}
